@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "S88-N")
-		(date "2024-05-11")
+		(date "2024-06-08")
 		(rev "1.0")
 		(comment 1 "PCB for 8-channel Märklin occupation detection using S88N bus")
 	)
@@ -7914,7 +7914,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "1k"
 			(at 91.44 66.294 90)
 			(effects
 				(font
@@ -8047,7 +8047,7 @@
 				)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "1k"
 			(at 34.29 61.214 90)
 			(effects
 				(font
@@ -8459,7 +8459,7 @@
 				)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "1k"
 			(at 34.29 114.554 90)
 			(effects
 				(font
@@ -8526,7 +8526,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "1k"
 			(at 91.44 114.554 90)
 			(effects
 				(font
@@ -9512,7 +9512,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "1k"
 			(at 91.44 51.054 90)
 			(effects
 				(font
@@ -10359,7 +10359,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "1k"
 			(at 91.44 109.474 90)
 			(effects
 				(font
@@ -10767,7 +10767,7 @@
 				)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "1k"
 			(at 34.29 124.714 90)
 			(effects
 				(font
@@ -11603,7 +11603,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "1k"
 			(at 91.44 119.634 90)
 			(effects
 				(font
@@ -12252,7 +12252,7 @@
 				)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "1k"
 			(at 34.29 51.054 90)
 			(effects
 				(font
@@ -12530,7 +12530,7 @@
 				)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "1k"
 			(at 34.29 119.634 90)
 			(effects
 				(font
@@ -12731,7 +12731,7 @@
 				)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "1k"
 			(at 34.29 109.474 90)
 			(effects
 				(font
@@ -13406,7 +13406,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "1k"
 			(at 91.44 61.214 90)
 			(effects
 				(font
@@ -13719,7 +13719,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "1k"
 			(at 91.44 124.714 90)
 			(effects
 				(font
@@ -13985,7 +13985,7 @@
 				)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "1k"
 			(at 34.29 66.294 90)
 			(effects
 				(font
@@ -14052,7 +14052,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "1k"
 			(at 91.44 56.134 90)
 			(effects
 				(font
@@ -14185,7 +14185,7 @@
 				)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "1k"
 			(at 34.29 56.134 90)
 			(effects
 				(font
